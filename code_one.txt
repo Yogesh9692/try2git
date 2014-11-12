@@ -1,1 +1,2 @@
 hay, this is the first line.
+hay, this is the second line.
